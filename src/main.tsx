@@ -1,11 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { ThemeProvider } from "styled-components";
-import { Routes } from "./routes/index.tsx";
-import { theme } from "./styles/theme.ts";
-import GlobalStyles from "./styles/global.ts";
-import { AuthProvider } from "./hooks/useAuth.tsx";
-import { CartProvider } from "./hooks/useCart.tsx";
+import { Routes } from "./routes/index";
+import { theme } from "./styles/theme";
+import GlobalStyles from "./styles/global";
+import { AuthProvider } from "./hooks/useAuth";
+import { CartProvider } from "./hooks/useCart";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
