@@ -30,13 +30,9 @@ Link do projeto: <a href= "https://flourishing-elf-04cbc3.netlify.app">Food expl
 - Editar prato
 - Detalhes do prato
   
-<div style="display: flex;">
-  ![image](https://github.com/user-attachments/assets/3954565c-0925-46f8-9ce2-11b57ad2f4a9)
-  ![image](https://github.com/user-attachments/assets/1ba3a44f-5d60-40ba-88de-fe303c2c33ec)
-</div>
-![image](https://github.com/user-attachments/assets/f735ad13-00c9-43b8-bd3e-e1258efef9bf)
-
-
+![image](https://github.com/user-attachments/assets/d0af27c4-d866-420e-9dda-6de62a26ab00)
+![image](https://github.com/user-attachments/assets/2febe62f-adf5-4704-a8b7-2d08a4ac9ab0)
+![image](https://github.com/user-attachments/assets/9a338c87-efda-419d-90a8-180c291cee1f)
 
 ## 🛠️ Funcionalidades: <br>
 
